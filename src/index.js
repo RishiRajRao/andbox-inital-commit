@@ -1,5 +1,5 @@
 function checkMate() {
-  console.log("====just chill & pill updated");
+  console.log("===jjjust chill & pill updated");
 }
 
 checkMate();
